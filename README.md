@@ -34,7 +34,7 @@ libat_core.a 是 AT 命令集的核心部分, 包含默认的 AT 指令集, 具�
 - [How_to_update_IDF.md](docs/zh_CN/Compile_and_Develop/How_to_update_IDF.md): 如何更新 IDF 版本  
 - [How_to_enable_ESP32_AT_Classic_Bluetooth.md](docs/zh_CN/Compile_and_Develop/How_to_enable_ESP32_AT_Classic_Bluetooth.md): 如何使能 ESP32 AT 经典蓝牙  
 - [How_to_customize_BLE_services.md](docs/zh_CN/Compile_and_Develop/How_to_customize_BLE_services.md): 如何自定义 ble services  
-- [How_to_enable_ESP32_AT_Ethernet.md](docs/zh_CN/Compile_and_Develop/How_to_enable_ESP32_AT_Ethernet.md): 如何使能 ESP32 AT 网口  
+- [How_to_enable_ESP32_AT_Ethernet.md](docs/zh_CN/Compile_and_Develop/How_to_enable_ESP32_AT_Ethernet.md): ESP32 AT 
 - [How_to_implement_ESP32_SDIO_AT.md](docs/zh_CN/Compile_and_Develop/How_to_implement_ESP32_SDIO_AT.md): SDIO AT 用法指南
 - [tools](tools/README.md): 其它一些 ESP AT 相关工具  
 - 虚拟机下载地址(供 64 位 windows 虚拟机客户使用): [`http://download.espressif.com/esp_share/env/ubuntu1804.ova`](http://download.espressif.com/esp_share/env/ubuntu1804.ova)
